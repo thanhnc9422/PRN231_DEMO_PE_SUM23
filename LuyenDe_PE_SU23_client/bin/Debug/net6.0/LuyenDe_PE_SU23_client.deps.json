@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LuyenDe_PE_SU23_client/1.0.0": {
+        "runtime": {
+          "LuyenDe_PE_SU23_client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LuyenDe_PE_SU23_client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

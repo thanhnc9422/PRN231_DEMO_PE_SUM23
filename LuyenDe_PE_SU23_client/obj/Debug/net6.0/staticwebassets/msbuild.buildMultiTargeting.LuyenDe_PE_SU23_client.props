@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LuyenDe_PE_SU23_client.props" />
+</Project>
